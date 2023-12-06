@@ -1,0 +1,40 @@
+The Cat Standard License
+Version 1.0
+October 2023
+Date of Issue: November 02, 2023
+
+Preamble:
+This document, known as "The Cat Standard License," is a legal agreement that governs the use, modification, and distribution of the software package (the "Software") created by Caxton Emerald S (the "Developer"). It is a "Non-Commercial, Non-Profit Educational, and Non-Profit Research Use Software License," designed for non-commercial, non-profit educational, and non-profit research purposes while imposing restrictions on commercial or for-profit use, modification, and distribution. By using, modifying, or distributing the Software, you agree to the terms of this Software License.
+
+Copyright © 2023 Caxton Emerald S
+
+Definitions:
+- **Base Software**: The original or derived software that is published under The Cat Standard License and is incorporated within the Software, whether in its unaltered state or as a modified version.
+
+1. Grant of License for Non-Commercial, Non-Profit Educational, and Non-Profit Research Use:
+   a. You are hereby granted a worldwide, non-exclusive, royalty-free license to use, modify, and distribute the Software for non-commercial, non-profit educational, and non-profit research purposes, subject to the conditions of this License.
+
+2. Restrictions on Commercial or For-Profit Use, Modification, and Distribution:
+   a. You may not use, modify, or distribute the Software, or its derivatives, for any commercial or for-profit purposes without obtaining a separate commercial license from the Developer.
+   b. This includes selling the Software, in whole or part, or using it as a free component within a larger software product that has a purchase or subscription model, whether fully or partially applied to other parts of the software.
+
+3. Distribution Requirements of Software:
+   a. When distributing the Software or its derivatives for non-commercial purposes, share the corresponding source code under the same license in a public repository.
+   b. In the case of the Software being a derivative of a base software, include clear attribution by giving due credit in documentation and provide an active hyperlink to the base software's license file in the Software's own license file. 
+
+4. Termination:
+   a. This License will terminate automatically if you breach its terms.
+
+5. Disclaimer of Warranty:
+   a. The Software is provided "as is" and without warranty.
+
+6. Limitation of Liability:
+   a. In no event shall the Developer be liable for any damages arising from the use, modification, or distribution of the Software.
+
+7. Governing Law and Jurisdiction:
+   a. This License shall be governed by and construed in accordance with the laws of the Republic of India.
+   b. Any legal disputes arising under this License shall fall under the jurisdiction of the Madras High Court, Chennai, India, regardless of the user's location.
+
+
+
+This License applies to the original Software and all derivatives created from it.

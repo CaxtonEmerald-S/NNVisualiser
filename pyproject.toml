@@ -1,0 +1,39 @@
+[project]
+name = "NNVisualiser"
+version = "1.0.0"  # Required
+description = "A Neural Network Visualiser as a Python package utilizing Matplotlib, visualizes plot coordinates from NeuralNetworkCoordinates for single-input, single-output neural networks. Aligned with Explainable AI, it offers concise insights, catering to researchers focused on understanding specific network architectures."  # Optional
+readme = "README.md" # Optional
+requires-python = ">=3.10.12"
+license = {text="The Cat Standard License v1.0"}
+keywords = ["neural networks", "ANN", "analysis", "coordinates", "visualiser", "visualise", "regression", "classification", "functional transformation"]  # Optional
+authors = [
+  {name = "Caxton Emerald S", email = "ces.softwaresolutions@gmail.com" },
+  {name = "Vengattaraman T", email = "vengattaraman.t@pondiuni.ac.in" }# Optional
+]
+maintainers = [
+  {name = "Caxton Emerald S", email = "ces.softwaresolutions@gmail.com" } # Optional
+]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Intended Audience :: Developers",
+  "Intended Audience :: Education",
+  "Intended Audience :: Science/Research",
+  "Intended Audience :: Information Technology",
+  "Topic :: Software Development :: Build Tools",
+  "Topic :: Software Development :: Libraries :: Python Modules",
+  "Topic :: Scientific/Engineering :: Artificial Intelligence",
+  "Topic :: Scientific/Engineering :: Visualization",
+  "Topic :: Scientific/Engineering",
+  "License :: Other/Proprietary License",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3 :: Only"
+]
+dependencies = [ 
+  "numpy>=1.23.5", "keras>=2.14.0", "matplotlib>=3.7.1", "tensorflow>=2.14.0", "NeuralNetworkCoordinates>=1.0.0"
+]
+[project.urls]  
+"Homepage" = "https://caxtonemerald-s.github.io/NNVisualiser/"
+"Bug Reports" = "https://github.com/CaxtonEmerald-S/NNVisualiser/issues"
+"Source" = "https://github.com/CaxtonEmerald-S/NNVisualiser/"
+"Documentation" = "https://github.com/CaxtonEmerald-S/NNVisualiser/wiki"
+"Wiki" = "https://github.com/CaxtonEmerald-S/NNVisualiser/wiki"
